@@ -1,3 +1,3 @@
-[CampuspeLog](https://campuspe.com/logo1.svg)
+[CampuspeLogo](https://campuspe.com/logo1.svg)
 
 # Campuspe Generative AI Class
